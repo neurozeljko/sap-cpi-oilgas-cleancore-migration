@@ -94,5 +94,5 @@ In mission-critical Oil & Gas operations, shared technical users (`RFC_USER`, `B
 
 ## Author
 **Željko Popov**  
-*Senior SAP Integration Architect & Lead*  
+*SAP Integration Architect & Lead*  
 Certified Boomi Integration Architect | SAP Integration Suite Specialist
